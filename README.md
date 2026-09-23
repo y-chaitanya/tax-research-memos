@@ -14,6 +14,9 @@ The client scenarios are fictional. The purpose is to show how I work through a 
 | [2](memos/02-section-179-vs-bonus.md) | §179 vs. bonus depreciation | Which election, in what order, and what does California do? |
 | [3](memos/03-home-office-deduction.md) | Home office, Schedule C | Does the space qualify, and which method? |
 | [4](memos/04-hobby-vs-business.md) | Hobby vs. business | Is there a profit motive under §183? |
+| [5](memos/05-s-corp-reasonable-compensation.md) | S corporation reasonable compensation | What salary must a shareholder-employee actually take? |
+
+Memoranda 1 through 4 deal with individual and Schedule C questions. Memorandum 5 moves to entity taxation and employment tax, where the answer turns on valuing services rather than on applying a threshold.
 
 ---
 
@@ -24,6 +27,7 @@ The client scenarios are fictional. The purpose is to show how I work through a 
 3. **Write the analysis before the conclusion.** If the reasoning doesn't hold up on the page, the conclusion is wrong.
 4. **Say what would change the answer.** A memo that only states a conclusion isn't much use when the facts shift.
 5. **Note what's still open.** Where the facts are incomplete, say what documentation is needed rather than assuming.
+6. **Let the answer come out where it comes out.** Memorandum 5 concludes against the client's current position. Research that always lands on the client's side isn't research.
 
 ---
 
