@@ -15,8 +15,9 @@ The client scenarios are fictional. The purpose is to show how I work through a 
 | [3](memos/03-home-office-deduction.md) | Home office, Schedule C | Does the space qualify, and which method? |
 | [4](memos/04-hobby-vs-business.md) | Hobby vs. business | Is there a profit motive under §183? |
 | [5](memos/05-s-corp-reasonable-compensation.md) | S corporation reasonable compensation | What salary must a shareholder-employee actually take? |
+| [6](memos/06-california-economic-nexus-wayfair.md) | California economic nexus after *Wayfair* | Must an out-of-state online seller collect California use tax? |
 
-Memoranda 1 through 4 deal with individual and Schedule C questions. Memorandum 5 moves to entity taxation and employment tax, where the answer turns on valuing services rather than on applying a threshold.
+Memoranda 1 through 4 deal with individual and Schedule C questions. Memorandum 5 moves to entity taxation and employment tax, where the answer turns on valuing services rather than on applying a threshold. Memorandum 6 moves to state and local tax, and is the first in the set to leave its controlling question open: the answer turns on a point the published guidance does not settle, so the memo says so rather than guessing.
 
 ---
 
