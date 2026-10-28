@@ -1,10 +1,8 @@
 # Tax Research Memoranda
 
-Written research memoranda on issues that come up regularly in small business and individual tax practice. Each follows the same structure — facts, issue, rule, analysis, conclusion — and cites primary authority.
+Written research memoranda on issues that come up regularly in small business and individual tax practice. Each follows the same structure (facts, issue, rule, analysis, conclusion) and cites primary authority.
 
 The client scenarios are fictional. The purpose is to show how I work through a question and document the reasoning, not to give tax advice.
-
----
 
 ## Memoranda
 
@@ -16,10 +14,12 @@ The client scenarios are fictional. The purpose is to show how I work through a 
 | [4](memos/04-hobby-vs-business.md) | Hobby vs. business | Is there a profit motive under §183? |
 | [5](memos/05-s-corp-reasonable-compensation.md) | S corporation reasonable compensation | What salary must a shareholder-employee actually take? |
 | [6](memos/06-california-economic-nexus-wayfair.md) | California economic nexus after *Wayfair* | Must an out-of-state online seller collect California use tax? |
+| [7](memos/07-reliance-on-preparer-e-filing.md) | Reliance on a preparer to e-file | Is a preparer's failure to transmit reasonable cause under *Boyle*? |
+| [8](memos/08-collection-alternatives-after-lt11.md) | Collection alternatives after an LT11 | Installment agreement, offer in compromise, or currently not collectible? |
 
 Memoranda 1 through 4 deal with individual and Schedule C questions. Memorandum 5 moves to entity taxation and employment tax, where the answer turns on valuing services rather than on applying a threshold. Memorandum 6 moves to state and local tax, and is the first in the set to leave its controlling question open: the answer turns on a point the published guidance does not settle, so the memo says so rather than guessing.
 
----
+Memoranda 7 and 8 move to representation before the IRS. Memorandum 7 applies *United States v. Boyle* to electronic filing, where a delegated deadline is not reasonable cause. Memorandum 8 compares collection alternatives after a final notice of intent to levy, where the answer turns on the client's ability to pay rather than on what the client owes. It also shows a calculation pointing one way and the rule pointing another: reasonable collection potential suggests an offer, but full-pay capacity rules it out.
 
 ## How I approach a research question
 
@@ -30,12 +30,10 @@ Memoranda 1 through 4 deal with individual and Schedule C questions. Memorandum 
 5. **Note what's still open.** Where the facts are incomplete, say what documentation is needed rather than assuming.
 6. **Let the answer come out where it comes out.** Memorandum 5 concludes against the client's current position. Research that always lands on the client's side isn't research.
 
----
-
 ## A note on dates and amounts
 
 Tax law changes. Dollar thresholds are indexed, and legislation moves the rules underneath them. Every figure in these memos reflects the law as I understood it at the date on the memo, and any real engagement would require verifying current amounts and guidance before a position is taken.
 
 ---
 
-**Chaitanya Yarlagadda** | IRS Enrolled Agent | CPA Exam Candidate
+Chaitanya Yarlagadda | IRS Enrolled Agent | CPA Exam Candidate
